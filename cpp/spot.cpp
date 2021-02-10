@@ -1,4 +1,4 @@
-// Written on mac environment
+// Written on macOS
 #include <iostream>
 #include <curl/curl.h>
 #include <string>
